@@ -1,0 +1,52 @@
+id,appt,appt_type,pet_type,gender,name,breed,age_yrs,weight_kgs,color,owner,owner_phone,owner_email,vet,vet_phone,vet_email,specialty,price
+1,16/07/2025 10:00,Injury Treatment,Cat,Female,Sera,Persian,4,4.3,Gray,Inga Ivanova,2596883365,ivan.ing@yahoo.com,Dr. Irina Vasilieva,647291716,irina.vasilieva@yahoo.com,Emergency,95.5
+2,16/07/2025 10:30,Vaccination,Dog,Female,Booma,Bulldog,2,19,White,Madaline Friedman,9528493707,mad.friedman@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,55.5
+3,16/07/2025 11:00,Check-up,Parrot,Male,Blusher,Cockatiel,14,0.125,White-Gray,Kaitlin Young,2314394087,young.kait@hotmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,30
+4,16/07/2025 11:30,Check-up,Rabbit,Male,Tux,Dutch,7,2.3,Black-White,Edna Mitch,3778189430,e.mitch@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,40
+5,16/07/2025 12:00,Dental Cleaning,Dog,Male,Goldie,Poodle,5,4.5,Orange,Carla Cuddy,4568210164,car.cud@gmail.com,Dr. Polina Stepanova,9637382916,polina.stepanova@yahoo.com,Dentistry,45.5
+6,16/07/2025 12:30,Dental Cleaning,Dog,Female,Cloudia,Poodle,4,5,White,Carla Cuddy,4568210164,car.cud@gmail.com,Dr. Eugene Volkov,10927276328,eugene.volkov@yahoo.com,Dentistry,45.5
+7,16/07/2025 13:00,Injury Treatment,Parrot,Female,Avie,African Grey,18,0.6,Red,Matthew Harrington,5686068745,matt.harring@gmail.com,Dr. Irina Vasilieva,647291716,irina.vasilieva@yahoo.com,Emergency,90.5
+8,16/07/2025 13:30,Vaccination,Rabbit,Male,Tucker,Dutch,5,2.5,Gray,Stephen Tate,6967828429,steph.tate@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,45
+9,16/07/2025 14:00,Check-up,Parrot,Female,Cacaw,Macaw,10,0.5,Red,Christine Joseph,168666790,chris.seph@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,65.5
+10,16/07/2025 14:30,Dental Cleaning,Dog,Male,Doug,Bulldog,7,20.6,Black,Donald Bowman,6217978211,donald.bowman@gmail.com,Dr. Polina Stepanova,9637382916,polina.stepanova@yahoo.com,Dentistry,85.5
+11,16/07/2025 15:00,Check-up,Rabbit,Female,Shy,Lop,10,5,Black,Alyssa Farley,5633387943,alyssa.far@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,45.5
+12,16/07/2025 15:30,Check-up,Parrot,Female,Cheeky,Cockatiel,8,0.2,White,William Hicks,5585028003,will.hick@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,85
+13,16/07/2025 16:00,Vaccination,Dog,Male,Slim,Chihuahua,5,2.9,Gray,Diego Gonzalez,4238497899,die.gonzalez@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,45.5
+14,16/07/2025 16:10,Vaccination,Dog,Male,Shady,Chihuahua,5,3.5,Black,Diego Gonzalez,4238497899,die.gonzalez@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,160
+15,16/07/2025 17:00,Check-up,Rabbit,Male,Donald,Rex,6,2.2,Brown,Julie Martinez,126252466,jul.martinez@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,45.5
+16,16/07/2025 17:30,Injury Treatment,Rabbit,Female,Revvie,Lop,7,1.1,White,Rebecca Cole,3724236670,rebecc.cole@gmail.com,Dr. Irina Vasilieva,647291716,irina.vasilieva@yahoo.com,Emergency,95.5
+17,16/07/2025 18:00,Injury Treatment,Cat,Female,Bennie,Bengal,1,4,Orange,Nicholas Duran,4263964877,nicholas.duran@gmail.com,Dr. Irina Vasilieva,647291716,irina.vasilieva@yahoo.com,Emergency,85.5
+18,16/07/2025 18:30,Vaccination,Parrot,Female,Grabbie,African Grey,20,0.2,Blue,Justin Greene,2543222495,justin.greene@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,50.5
+19,16/07/2025 19:00,Check-up,Rabbit,Male,Hopper,Dutch,8,2.8,Brown,Darren Price,6068790406,darren.price@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,40
+20,16/07/2025 19:30,Vaccination,Rabbit,Female,Niche,Lop,6,1.3,Gray,Scott Edwards,82890694,scott.edwards@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,55
+21,17/07/2025 10:00,Check-up,Rabbit,Female,Scotch,Dutch,6,2.8,Black,Jacqueline Mcbride,1456591,jacqueline.mcbride@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,35
+22,17/07/2025 10:30,Injury Treatment,Cat,Male,Morse,Siamese,9,6.6,White,Diane Logan,5829727686,diane.logan@gmail.com,Dr. Irina Vasilieva,647291716,irina.vasilieva@yahoo.com,Emergency,85
+23,17/07/2025 11:00,Injury Treatment,Cat,Female,Percy,Persian,8,4.7,Orange,Lindsey Lynch,7341292775,lindsey.lynch@gmail.com,Dr. Irina Vasilieva,647291716,irina.vasilieva@yahoo.com,Emergency,110.5
+24,17/07/2025 11:30,Surgery,Cat,Female,Pearl,Persian,13,3.2,White,Samuel Wheeler,1332194030,samuel.wheeler@gmail.com,Dr. Victoria Voronova,116382622,victoria.voronova@yahoo.com,Surgery,170.5
+25,17/07/2025 12:00,Dental Cleaning,Dog,Male,Sunny,Poodle,6,17.5,Brown,Emma Nguyen,2970328124,emma.nguyen@gmail.com,Dr. Polina Stepanova,9637382916,polina.stepanova@yahoo.com,Dentistry,75.5
+26,17/07/2025 12:30,Vaccination,Dog,Male,Shelly,Bulldog,8,28.2,White,Joel Hurst,5476487521,joel.hurst@gmail.com,Dr. Eugene Volkov,10927276328,eugene.volkov@yahoo.com,Immunology,50.5
+27,17/07/2025 13:00,Surgery,Dog,Female,Poolie,Poodle,5,11.1,Black,Alexis Patrick,753547140,alexis.patrick@gmail.com,Dr. Victoria Voronova,116382622,victoria.voronova@yahoo.com,Surgery,225.5
+28,17/07/2025 13:30,Vaccination,Parrot,Male,Marble,African Grey,5,0.5,Gray,Deborah Henderson,6573599178,deborah.henderson@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,50.5
+29,17/07/2025 14:00,Injury Treatment,Cat,Male,Click,Siamese,10,4.5,White,Mannie Guzman,9901650189,guz.mannie@yahoo.com,Dr. Irina Vasilieva,647291716,irina.vasilieva@yahoo.com,Emergency,110.5
+30,17/07/2025 14:30,Dental Cleaning,Cat,Female,Com,Siamese,10,4,Orange,Mannie Guzman,9901650189,guz.mannie@yahoo.com,Dr. Eugene Volkov,10927276328,eugene.volkov@yahoo.com,Dentistry,60.5
+31,17/07/2025 15:00,Vaccination,Cat,Male,Candy,Siamese,2,3.3,Orange-White,Mannie Guzman,9901650189,guz.mannie@yahoo.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,55.5
+32,17/07/2025 15:30,Check-up,Rabbit,Female,Ricky,Dutch,5,2.8,Brown,Christina Richard,6430877205,christina.richard@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,35
+33,17/07/2025 16:00,Dental Cleaning,Cat,Female,Karen,Persian,3,4.3,Black,Bridget Perkins,1040111495,bridget.perkins@gmail.com,Dr. Polina Stepanova,9637382916,polina.stepanova@yahoo.com,Dentistry,80.5
+34,17/07/2025 16:30,Dental Cleaning,Dog,Male,Paddle,Poodle,10,25.5,Brown,Tina Brown,1841148622,tina.brown@gmail.com,Dr. Polina Stepanova,9637382916,polina.stepanova@yahoo.com,Dentistry,75
+35,17/07/2025 17:00,Dental Cleaning,Rabbit,Female,Derpy,Lop,6,1.7,White,Dakota Evans,268961494,dakota.evans@gmail.com,Dr. Eugene Volkov,10927276328,eugene.volkov@yahoo.com,Dentistry,65.5
+36,17/07/2025 17:30,Dental Cleaning,Rabbit,Female,Rexxit,Rex,2,2,White,Trevor Taylor,1678075932,trevor.taylor@gmail.com,Dr. Eugene Volkov,10927276328,eugene.volkov@yahoo.com,Dentistry,90
+37,17/07/2025 18:00,Surgery,Cat,Female,Gal,Bengal,7,3.9,Black,Michael Watkins,9834110505,michael.watkins@gmail.com,Dr. Victoria Voronova,116382622,victoria.voronova@yahoo.com,Surgery,200
+38,17/07/2025 18:30,Dental Cleaning,Rabbit,Female,Loopy,Lop,5,2.9,Gray,Justin Jones,6519593431,justin.jones@gmail.com,Dr. Eugene Volkov,10927276328,eugene.volkov@yahoo.com,Dentistry,65.5
+39,17/07/2025 19:00,Surgery,Dog,Male,Comma,Poodle,4,14.9,Golden,Reginald Tyler,2920036634,reginald.tyler@gmail.com,Dr. Victoria Voronova,116382622,victoria.voronova@yahoo.com,Surgery,215
+40,17/07/2025 19:30,Vaccination,Parrot,Male,Bok,African Grey,20,0.6,Gray,Ronald Smith,6812314111,ronald.smith@hotmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,40
+41,18/07/2025 10:00,Surgery,Rabbit,Female,Pam,Lionhead,2,1.5,Brown,Chase Sutton,2030145847,chase.ton@gmail.com,Dr. Daria Kozlova,12837292,daria.kozlova@yahoo.com,Surgery,195.5
+42,18/07/2025 10:30,Check-up,Cat,Male,Simmer,Siamese,14,5.8,Orange,Rob Summers,9361916545,robin.sum@gmail.com,Dr. Alex Sokolov,83784937292,alex.sokolov@yahoo.com,General,30
+43,18/07/2025 11:00,Vaccination,Dog,Female,Cider,Rottweiler,6,45,Black-Brown,Ross Stokes,4132870388,ross.stokes@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,40.5
+44,18/07/2025 11:30,Vaccination,Dog,Female,Brandi,Rottweiler,6,45,Black-Brown,Ross Stokes,4132870388,ross.stokes@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,40.5
+45,18/07/2025 12:00,Vaccination,Dog,Male,Rum,Rottweiler,6,50,Black-Brown,Ross Stokes,4132870388,ross.stokes@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,45.5
+46,18/07/2025 12:30,Surgery,Cat,Male,Bendy,Bengal,7,3.1,White,Rig Gray,1049841266,ri.gray@gmail.com,Dr. Daria Kozlova,12837292,daria.kozlova@yahoo.com,Surgery,235
+47,18/07/2025 13:00,Vaccination,Rabbit,Female,Bonbon,Rex,4,2.2,Gray,Brittney Wallace,2677766347,brit.lace@gmail.com,Dr. Rodion Vasiliev,75368373839,rodion.vasiliev@yahoo.com,Immunology,55
+48,18/07/2025 13:30,Injury Treatment,Parrot,Female,Tyler,Budgerigar,1,0.04,Blue,Windy Summers,6794511442,windy.summers@gmail.com,Dr. Irina Vasilieva,647291716,irina.vasilieva@yahoo.com,Emergency,95.5
+49,18/07/2025 14:00,Surgery,Parrot,Male,Caward,Macaw,20,0.3,Blue,Blaire Rodney,5335290538,blaire.ney@hotmail.com,Dr. Daria Kozlova,12837292,daria.kozlova@yahoo.com,Surgery,225
+50,18/07/2025 14:30,Dental Cleaning,Dog,Male,Billiard,Bulldog,4,23,Black,Inna Conway,8147691193,inna.way@yahoo.com,Dr. Polina Stepanova,9637382916,polina.stepanova@yahoo.com,Dentistry,70
+51,18/07/2025 15:00,Surgery,Parrot,Male,Bicker,Cockatiel,10,0.1,White,Samara Miller,7532822030,sam.miller@gmail.com,Dr. Victoria Voronova,116382622,victoria.voronova@yahoo.com,Surgery,225.5
